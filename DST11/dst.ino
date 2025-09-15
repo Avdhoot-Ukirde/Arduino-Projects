@@ -5,7 +5,7 @@
 
 #define echoPin 5 // Corresponds to D1
 #define trigpin 4 // Corresponds to D2
-
+// just adding coomments 
 long duration;
 int distance;
 
